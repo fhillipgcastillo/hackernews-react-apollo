@@ -74,3 +74,9 @@ feed: Retrieves all links from the backend, note that this query also allows for
 * newLink: Receive realtime updates when a new link is created
 * newVote: Receive realtime updates when a vote was submitted
 
+### Notes:
+* to initialize the server, remember to install the dependencies with npm install
+* Reploy is needed with prisma so need to run: npm run prisma deploy
+
+
+
